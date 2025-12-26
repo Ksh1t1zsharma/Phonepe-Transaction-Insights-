@@ -1,0 +1,4 @@
+state,district,date,transaction_count,transaction_amount,category
+Karnataka,Bengaluru Urban,2021-01-01,120,36000,recharge
+Maharashtra,Mumbai,2021-01-01,95,28500,merchant_payment
+Delhi,New Delhi,2021-01-01,50,15000,bill_payment
